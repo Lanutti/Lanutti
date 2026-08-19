@@ -1,22 +1,27 @@
 # Alexandre Lanutti
 
-## (EN) About me:
+## (EN) About Me
 
 ### Full Stack Developer | Backend | Automation | Cloud
 
-I am a Full Stack Developer focused on building reliable software, backend services, system integrations, automation and cloud solutions.
+I am a Full Stack Developer focused on building reliable software, backend services, system integrations, automation, and cloud solutions.
 
-My experience covers frontend and backend development, APIs, databases, automation, infrastructure and legacy systems. I work mainly with Python, COBOL, TypeScript, JavaScript, Node.js, Next.js, FastAPI, NestJS, PostgreSQL, Docker and AWS, alongside other technologies.
+My experience covers frontend and backend development, APIs, databases, automation, infrastructure, and legacy systems. I work mainly with Python, COBOL, TypeScript, JavaScript, Node.js, Next.js, FastAPI, NestJS, PostgreSQL, Docker, and AWS, alongside other technologies.
 
-I am particularly interested in software architecture, system integration, automation, backend engineering and the connection between modern applications and legacy environments.
+I am particularly interested in software architecture, system integration, automation, backend engineering, and connecting modern applications with legacy environments.
 
-Currently studying Systems Analysis and Development at FATEC-SP, I use GitHub to build projects, explore new technologies and continuously improve my engineering skills.
+Currently studying Systems Analysis and Development at FATEC-SP, I use GitHub to build projects, explore new technologies, and continuously improve my engineering skills.
 
 **Always learning. Always building.**
 
+### Contact
+
+Email: [alejr2003@gmail.com](mailto:alejr2003@gmail.com)
+LinkedIn: [Alexandre Lanutti](https://linkedin.com/in/alexandre-lanutti-christino-junior-0416991b)
+
 ---
 
-## (PTBR) Sobre mim:
+## (PT-BR) Sobre Mim
 
 ### Desenvolvedor Full Stack | Backend | Automação | Cloud
 
@@ -29,3 +34,8 @@ Tenho especial interesse em arquitetura de software, integração de sistemas, a
 Atualmente curso Análise e Desenvolvimento de Sistemas na FATEC-SP e utilizo o GitHub para desenvolver projetos, explorar novas tecnologias e evoluir continuamente como profissional de tecnologia.
 
 **Sempre aprendendo. Sempre construindo.**
+
+### Contato
+
+Email: [alejr2003@gmail.com](mailto:alejr2003@gmail.com)
+LinkedIn: [Alexandre Lanutti](https://linkedin.com/in/alexandre-lanutti-christino-junior-0416991b)
