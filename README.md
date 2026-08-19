@@ -1,6 +1,6 @@
 # Alexandre Lanutti
 
-## English
+## (EN) About me:
 
 ### Full Stack Developer | Backend | Automation | Cloud
 
@@ -16,7 +16,7 @@ Currently studying Systems Analysis and Development at FATEC-SP, I use GitHub to
 
 ---
 
-## Português
+## (PTBR) Sobre mim:
 
 ### Desenvolvedor Full Stack | Backend | Automação | Cloud
 
