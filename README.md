@@ -116,9 +116,11 @@ Autenticação, autorização, controle de acesso e integração segura entre se
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,html,css,java" height="48" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,java,html,css" height="48" />
 
 </p>
+
+`Python` • `JS` • `TS` • `C` • `Java` • `HTML` • `CSS`
 
 ---
 
@@ -142,7 +144,7 @@ Autenticação, autorização, controle de acesso e integração segura entre se
 
 </p>
 
-**Next.js — Intermediário**
+`Next.js`
 
 ---
 
