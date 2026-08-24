@@ -116,27 +116,13 @@ Autenticação, autorização, controle de acesso e integração segura entre se
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,html,css,java" alt="Programming Languages"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,html,css,java" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/COBOL-005CA5?style=for-the-badge&logo=ibm&logoColor=white" alt="COBOL"/>
-
-<img src="https://img.shields.io/badge/VBA-867DB1?style=for-the-badge&logo=microsoft&logoColor=white" alt="VBA"/>
+<img src="https://img.shields.io/badge/COBOL-005CA5?style=for-the-badge&logoColor=white" />
 
 </p>
-
-| Linguagem | Nível |
-|:---|:---:|
-| 🐍 Python | **Avançado** |
-| 🟨 JavaScript | **Avançado** |
-| 🔷 TypeScript | **Intermediário** |
-| 🔵 C | **Intermediário** |
-| 💙 COBOL | **Intermediário** |
-| 🟪 VBA | **Avançado** |
-| 🌐 HTML | **Avançado** |
-| 🎨 CSS | **Intermediário** |
-| ☕ Java | **Iniciante** |
 
 ---
 
