@@ -115,20 +115,9 @@ Autenticação, autorização, controle de acesso e integração segura entre se
 ## 💻 Linguagens
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript"/>
-  <img src="https://skillicons.dev/icons?i=c" height="48" alt="C"/>
 
-  <img
-    src="https://img.shields.io/badge/COBOL-005CA5?style=for-the-badge"
-    height="48"
-    alt="COBOL"
-  />
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,html,css,java" height="48" />
 
-  <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML"/>
-  <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS"/>
-  <img src="https://skillicons.dev/icons?i=java" height="48" alt="Java"/>
 </p>
 
 ---
