@@ -160,15 +160,15 @@ Autenticação, autorização, controle de acesso e integração segura entre se
 
 ---
 
-## 🗄️ Data & Storage
+## 🗄️ Databases
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Databases"/>
 
 </p>
 
-`PostgreSQL` • `DynamoDB`
+`PostgreSQL` • `MySQL` • `MongoDB` • `DynamoDB`
 
 ---
 
