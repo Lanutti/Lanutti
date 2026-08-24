@@ -116,11 +116,13 @@ Autenticação, autorização, controle de acesso e integração segura entre se
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,html,css,java" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,html,css,java" height="48" />
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/COBOL-005CA5?style=for-the-badge&logoColor=white" />
+<img
+  src="https://img.shields.io/badge/COBOL-005CA5?style=for-the-badge"
+  height="48"
+  alt="COBOL"
+/>
 
 </p>
 
