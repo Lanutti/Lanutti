@@ -25,7 +25,7 @@
 
 ## `> whoami`
 
-Olá! Eu sou **Alexandre Lanutti Christino Junior**, desenvolvedor de software com atuação em **backend, full stack, automação e integração de sistemas**.
+Olá! Eu sou **Alexandre Lanutti Christino Junior**, desenvolvedor de software com atuação em **full stack, automação e integração de sistemas**.
 
 Minha experiência está principalmente na construção de aplicações e automações que conectam **APIs, dados, serviços e processos de negócio**.
 
